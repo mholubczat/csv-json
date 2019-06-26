@@ -1,0 +1,26 @@
+[
+ {
+   "firstName":"Janek",
+   "lastName":"Nowak",
+   "city":"Katowice",
+   "salary":3000,
+   "age":34,
+   "hasChildren":1
+ },
+ {
+   "firstName":"Adam",
+   "lastName":"Cebulak",
+   "city":"Warszawa",
+   "salary":8999,
+   "age":33,
+   "hasChildren":1
+ },
+ {
+   "firstName":"Katarzyna",
+   "lastName":"Wodnik",
+   "city":"Zakopane",
+   "salary":3000,
+   "age":23,
+   "hasChildren":0
+ } 
+]
